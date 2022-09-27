@@ -24,6 +24,8 @@ Popula os filtros e produtos na sessão de "cardapio" ou na tela de "Only cardap
 
 (Link para "only cardapio" no rodapé)
 
+(arquivo .sql para subir no seu phpmyadmin esta junto com o INDEX no projeto)
+
 Usuario e senha padrão (admin admin), podendo ser alterado diretamente na base
 
 PHP Puro, sem framework
